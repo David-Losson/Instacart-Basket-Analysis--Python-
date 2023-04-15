@@ -36,4 +36,4 @@ The exploratory analysis was conducted in Python using the following tools and l
 
 **Result**
 
-Daylight hours and weekends account for the peak ordering times throughout the week. There are distinct income brackets of customers at under $100,000, $100,000-$180,000, $180,000-$300,000, $300,000-$400,000, and above $400,000. The most loyal and consistent shoppers live as either married couples with children or as single persons.
+Late morning and afternoon hours represent the vast majority of purchases- spiking upwards from 7-10AM and falling gradually from 3PM-12AM. Ordering peaks during the weekends (Friday-Sunday) and bottoms out by mid-week (Wednesday). Most of the products ordered through the platform are under $25 and the vast majority of those are under $15. Certain departments account for more high- and mid-priced items, while others are dominated by very low-cost products. Instacart has many loyal, frequent shoppers and their customer base is dominated by married people, both with and without children, who tend to be quite loyal and frequent shoppers. General ordering habits are quite stable by region and age group.
